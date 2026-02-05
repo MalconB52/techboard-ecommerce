@@ -41,12 +41,6 @@ git clone https://github.com/MalconB52/techboard-ecommerce.git
 
 # 2. Abra o arquivo index.html no navegador
 # (Ou use uma extensão Live Server no VS Code)
-📝 Próximas Melhorias (Roadmap)
-Adicionar interatividade com JavaScript (menu mobile, carrinho)
-
-Implementar página de detalhes do produto
-
-Adicionar modo escuro/claro
 
 Desenvolvido por Malcon Barbosa
 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Front-end

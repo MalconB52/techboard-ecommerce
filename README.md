@@ -1,4 +1,3 @@
-markdown
 # 🛒 TechBoard - Loja de Hardware
 
 **Uma landing page de e-commerce responsiva para produtos de tecnologia, desenvolvida com HTML5 e CSS3 puro.**

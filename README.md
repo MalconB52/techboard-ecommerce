@@ -2,7 +2,8 @@
 
 **Uma landing page de e-commerce responsiva para produtos de tecnologia, desenvolvida com HTML5 e CSS3 puro.**
 
-![TechBoard Screenshot](LINK_DA_SUA_SCREENSHOT_AQUI)
+<img width="1648" height="1181" alt="image" src="https://github.com/user-attachments/assets/0e5a399b-3853-4e54-9d9e-dad3c74262b0" />
+<img width="1648" height="1181" alt="image" src="https://github.com/user-attachments/assets/0e5a399b-3853-4e54-9d9e-dad3c74262b0" />
 
 ## 📋 Sobre
 Landing page de uma loja virtual especializada em hardware (placas de vídeo). Projeto focado em **praticar e demonstrar** habilidades fundamentais de Front-end:
@@ -11,8 +12,8 @@ Landing page de uma loja virtual especializada em hardware (placas de vídeo). P
 - Design que se adapta perfeitamente de **mobile a desktop**
 
 ## 🚀 Live Demo & Código
-- **🌐 Site Online:** [Link do Deploy na Vercel/Netlify]
-- **📂 Código Fonte:** [https://github.com/MalconB52/techboard-ecommerce](https://github.com/MalconB52/techboard-ecommerce)
+- **🌐 Site Online:** (https://techboard-ecommerce.vercel.app/)
+- **📂 Código Fonte:** (https://github.com/MalconB52/techboard-ecommerce)
 
 ## 🛠️ Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

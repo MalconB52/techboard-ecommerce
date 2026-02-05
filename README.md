@@ -3,7 +3,6 @@
 **Uma landing page de e-commerce responsiva para produtos de tecnologia, desenvolvida com HTML5 e CSS3 puro.**
 
 <img width="1648" height="1181" alt="image" src="https://github.com/user-attachments/assets/0e5a399b-3853-4e54-9d9e-dad3c74262b0" />
-<img width="1648" height="1181" alt="image" src="https://github.com/user-attachments/assets/0e5a399b-3853-4e54-9d9e-dad3c74262b0" />
 
 ## 📋 Sobre
 Landing page de uma loja virtual especializada em hardware (placas de vídeo). Projeto focado em **praticar e demonstrar** habilidades fundamentais de Front-end:
